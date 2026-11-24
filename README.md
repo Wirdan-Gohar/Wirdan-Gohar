@@ -15,21 +15,6 @@
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-wirdan-gohar-9782761aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wirdan-showcase.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:m.wirdangohar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 ## ⚡ Current Focus
 - 🏢 Building AI-powered 360° virtual tour generators & interactive property visualizations (**Krpano, React, NestJS**)[cite: 1, 2]
 - 🤖 **AI Development**: LLM/API integrations, Prompt Engineering, and AI-assisted workflows[cite: 2]
@@ -77,14 +62,31 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/wirdangohar/wirdangohar/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Wirdan-Gohar/Wirdan-Gohar/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/wirdangohar/wirdangohar/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Wirdan-Gohar/Wirdan-Gohar/output/github-snake.svg"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/wirdangohar/wirdangohar/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Wirdan-Gohar/Wirdan-Gohar/output/github-snake.svg"
   />
 </picture>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-wirdan-gohar-9782761aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wirdan-showcase.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:m.wirdangohar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
