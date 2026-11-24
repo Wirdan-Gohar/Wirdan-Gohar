@@ -7,21 +7,21 @@
 ---
 
 ## 🧑‍💻 About Me
-🚀 **Full Stack Developer** with **5+ years of experience** building scalable, high-performance web applications and end-to-end digital solutions.  
+🚀 **Full Stack Developer** with **5+ years of experience** building scalable, high-performance web applications and end-to-end solutions.  
 🏢 Currently working as a Full Stack Developer at **Dubizzle Labs** in Lahore, Pakistan.  
-🤖 Skilled in **Prompt Engineering, Vibe Coding, AI coding assistants, and LLM integrations** to accelerate development and problem-solving.  
-🌐 Experienced in **3D web experiences with Krpano**, REST/GraphQL APIs, cloud deployments, and real-time data systems[cite: 1, 2].  
+🤖 Skilled in **Prompt Engineering, Vibe Coding, AI coding assistants, and LLM integrations** to accelerate development.  
+🌐 Experienced in **3D web experiences with Krpano**, REST/GraphQL APIs, cloud deployments, and real-time data systems.  
 💡 Focused on clean architecture, performance optimization, and maintainable code.  
 
 ---
 
 ## ⚡ Current Focus
-- 🏢 Building AI-powered 360° virtual tour generators & interactive property visualizations (**Krpano, React, NestJS**)[cite: 1, 2]
-- 🤖 **AI Development**: LLM/API integrations, Prompt Engineering, and AI-assisted workflows[cite: 2]
-- 📈 System design & API performance optimization for scalable apps[cite: 1]
-- 🔄 Real-time data management with **Socket.io, PostgreSQL, MongoDB, and Supabase**[cite: 1, 2]
-- ⚛️ Advanced **React & Next.js** architecture (SSR, lazy loading, reusable design systems)[cite: 1]
-- ☁️ Cloud deployments & CI/CD pipelines across **AWS, Vercel, and Netlify**[cite: 1, 2]
+- 🏢 Building AI-powered 360° virtual tour generators & interactive property visualizations (**Krpano, React, NestJS**)
+- 🤖 **AI Development**: LLM/API integrations, Prompt Engineering, and AI-assisted workflows
+- 📈 System design & API performance optimization for scalable apps
+- 🔄 Real-time data management with **Socket.io, PostgreSQL, MongoDB, and Supabase**
+- ⚛️ Advanced **React & Next.js** architecture (SSR, lazy loading, reusable design systems)
+- ☁️ Cloud deployments & CI/CD pipelines across **AWS, Vercel, and Netlify**
 
 ---
 
