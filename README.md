@@ -60,27 +60,13 @@
 ---
 
 ## 🚀 Featured Projects
-- **[Dubizzle Labs Virtual Tours](#)** — 3D property visualization using Krpano, React, NestJS, and MongoDB[cite: 2]
+- **[Online ATS CV Builder](https://online-ats-cv-builder-1twl-six.vercel.app/)** — ATS-friendly resume and CV builder web application
+- **[SJ Computers](https://sjcomputers.us/)** — E-commerce and computer hardware storefront
+- **[Chess by Wirdan](https://wirdan-gohar.github.io/chess-by-wirdan/)** — Interactive web-based chess game
 - **[Future Pathway Platform](https://www.futurepathways.co/)** — Full-stack web platform[cite: 2]
 - **[Labs by First Movers](https://labs.firstmovers.ai)** — AI-focused web platform[cite: 2]
 - **[AIO Dashboard](http://aioapp.com)** — AI-powered food ordering, OCR invoice parsing, and analytics platform[cite: 1, 2]
-- **[Inventory Management System](https://dev.ims.btosystems.com/home)** — Enterprise inventory system with eBay & FedEx integrations[cite: 1, 2]
-- **[Pay Management System](https://pms-entry.99technologies.co)** — Enterprise payment processing platform with Stripe integration[cite: 1, 2]
 - **[Guide To Pakistan](https://guidetopakistan.pk/)** — Travel and discovery portal[cite: 2]
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -89,16 +75,16 @@
 </p>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/mouzam-ali-007/mouzam-ali-007/output/github-snake-dark.svg"
+/>
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/mouzam-ali-007/mouzam-ali-007/output/github-snake.svg"
+/>
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/mouzam-ali-007/mouzam-ali-007/output/github-snake.svg"
+/>
 </picture>
