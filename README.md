@@ -7,11 +7,11 @@
 ---
 
 ## 🧑‍💻 About Me
-🚀 **Full Stack Developer** with **5+ years of experience** building scalable, high-performance web applications and end-to-end digital solutions[cite: 1].  
-🏢 Currently working as a Full Stack Developer at **Dubizzle Labs** in Lahore, Pakistan[cite: 1].  
-🤖 Skilled in **Prompt Engineering, Vibe Coding, AI coding assistants, and LLM integrations** to accelerate development and problem-solving[cite: 1].  
+🚀 **Full Stack Developer** with **5+ years of experience** building scalable, high-performance web applications and end-to-end digital solutions.  
+🏢 Currently working as a Full Stack Developer at **Dubizzle Labs** in Lahore, Pakistan.  
+🤖 Skilled in **Prompt Engineering, Vibe Coding, AI coding assistants, and LLM integrations** to accelerate development and problem-solving.  
 🌐 Experienced in **3D web experiences with Krpano**, REST/GraphQL APIs, cloud deployments, and real-time data systems[cite: 1, 2].  
-💡 Focused on clean architecture, performance optimization, and maintainable code[cite: 1].  
+💡 Focused on clean architecture, performance optimization, and maintainable code.  
 
 ---
 
